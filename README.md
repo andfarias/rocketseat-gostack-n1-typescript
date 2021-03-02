@@ -1,0 +1,1 @@
+# andfarias-rockseat-gostack-n1-typescript
